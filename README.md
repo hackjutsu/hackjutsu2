@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=hackjutsu&show_icons=true&count_private=true&theme=graywhite&hide=contribs&hide_title=true&hide_border=true" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hackjutsu&show_icons=true&count_private=true&theme=graywhite&hide=contribs&hide_title=true&hide_border=true" width="450"/>
